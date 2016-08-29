@@ -1,4 +1,4 @@
-package cn.boot.tools;
+package cn.boot;
 
 import android.app.Activity;
 import android.app.KeyguardManager;
